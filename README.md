@@ -1,7 +1,7 @@
 # TuneBlade Key Generator | 生成器 | Генератор ключей
 
 <div align="center">
-  <img src="https://crosser23.github.io/tuneblade-key-generator/tuneblade-license-interface.svg" alt="TuneBlade License Interface" width="600">
+  <img src="public/tuneblade-license-interface.svg" alt="TuneBlade License Interface" width="600">
   
   <p>
     <em>Генератор ключей для TuneBlade | Key Generator for TuneBlade | TuneBlade 密钥生成器</em>
@@ -189,5 +189,5 @@ Created by CroSSer23
 ---
 
 <div align="center">
-  <p>© 2023 TuneBlade Key Generator | by CroSSer23</p>
+  <p>© 2025 TuneBlade Key Generator | by CroSSer23</p>
 </div>
