@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Главный фон -->
+  <rect width="800" height="500" fill="#f0f0f0" />
+  
+  <!-- Левая панель -->
+  <rect x="10" y="50" width="180" height="430" fill="#ffffff" stroke="#d0d0d0" stroke-width="1" />
+  
+  <!-- Опции в левой панели -->
+  <text x="22" y="80" font-family="Arial" font-size="14" fill="#000000">General</text>
+  <text x="22" y="120" font-family="Arial" font-size="14" fill="#000000">AirPlay Streaming</text>
+  <text x="22" y="160" font-family="Arial" font-size="14" fill="#000000">Audio Capture</text>
+  <text x="22" y="200" font-family="Arial" font-size="14" fill="#000000">Video</text>
+  <text x="22" y="240" font-family="Arial" font-size="14" fill="#000000">Remote Control</text>
+  <text x="22" y="280" font-family="Arial" font-size="14" fill="#000000">AirPlay Receivers</text>
+  
+  <!-- Выделенная опция License -->
+  <rect x="10" y="300" width="180" height="30" fill="#e0f0ff" />
+  <text x="22" y="320" font-family="Arial" font-size="14" fill="#000000" font-weight="bold">License</text>
+  
+  <text x="22" y="360" font-family="Arial" font-size="14" fill="#000000">Help</text>
+  <text x="22" y="400" font-family="Arial" font-size="14" fill="#000000">About</text>
+  <text x="22" y="440" font-family="Arial" font-size="14" fill="#000000">Monitor</text>
+  
+  <!-- Правая панель -->
+  <rect x="200" y="50" width="590" height="430" fill="#ffffff" stroke="#d0d0d0" stroke-width="1" />
+  
+  <!-- Текст о свободной версии -->
+  <text x="220" y="90" font-family="Arial" font-size="14" fill="#000000">You are using a free version of TuneBlade. It is fully functional, but streaming is</text>
+  <text x="220" y="110" font-family="Arial" font-size="14" fill="#000000">stopped every 10 minutes for Airport Express, Apple TV, AirPlay speakers and HiFi</text>
+  <text x="220" y="130" font-family="Arial" font-size="14" fill="#000000">receivers.</text>
+  
+  <!-- Кнопка Buy License Key -->
+  <rect x="400" y="160" width="170" height="30" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1" rx="3" ry="3" />
+  <text x="432" y="180" font-family="Arial" font-size="14" fill="#000000">Buy License Key</text>
+  
+  <!-- Секция Unlock TuneBlade -->
+  <rect x="220" y="200" width="550" height="30" fill="#e0e0e0" />
+  <text x="225" y="220" font-family="Arial" font-size="14" font-weight="bold" fill="#000000">Unlock TuneBlade</text>
+  
+  <!-- Поля ввода -->
+  <text x="220" y="255" font-family="Arial" font-size="14" fill="#000000">License ID:</text>
+  <rect x="360" y="240" width="400" height="25" fill="#ffffff" stroke="#c0c0c0" stroke-width="1" />
+  
+  <text x="220" y="310" font-family="Arial" font-size="14" fill="#000000">License Key:</text>
+  <rect x="360" y="295" width="400" height="25" fill="#ffffff" stroke="#c0c0c0" stroke-width="1" />
+  
+  <!-- Кнопка Unlock -->
+  <rect x="400" y="360" width="170" height="30" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1" rx="3" ry="3" />
+  <text x="457" y="380" font-family="Arial" font-size="14" fill="#000000">Unlock</text>
+  
+  <!-- Кнопки внизу -->
+  <rect x="500" y="460" width="80" height="25" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1" rx="3" ry="3" />
+  <text x="526" y="477" font-family="Arial" font-size="14" fill="#000000">OK</text>
+  
+  <rect x="590" y="460" width="80" height="25" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1" rx="3" ry="3" />
+  <text x="607" y="477" font-family="Arial" font-size="14" fill="#000000">Cancel</text>
+  
+  <rect x="680" y="460" width="80" height="25" fill="#e0e0e0" stroke="#c0c0c0" stroke-width="1" rx="3" ry="3" />
+  <text x="697" y="477" font-family="Arial" font-size="14" fill="#000000">Apply</text>
+  
+  <!-- Заголовок окна -->
+  <rect x="0" y="0" width="800" height="40" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="1" />
+  <text x="35" y="25" font-family="Arial" font-size="16" font-weight="bold" fill="#000000">TuneBlade Preferences</text>
+  
+  <!-- Иконка TuneBlade -->
+  <circle cx="20" cy="20" r="15" fill="#4080c0" />
+  <text x="16" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff">T</text>
+  
+  <!-- Кнопка закрытия (X) -->
+  <rect x="770" y="10" width="20" height="20" fill="#f0f0f0" />
+  <text x="774" y="25" font-family="Arial" font-size="16" font-weight="bold" fill="#000000">×</text>
+</svg> 
