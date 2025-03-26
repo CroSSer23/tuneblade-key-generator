@@ -19,7 +19,7 @@ export default function ActivationInstructions({ email, licenseKey }: Activation
       {/* Изображение интерфейса */}
       <div className="w-full mb-8 bg-gray-700 rounded-md overflow-hidden">
         <img
-          src="/tuneblade-license-interface.svg"
+          src="./tuneblade-license-interface.svg"
           alt="TuneBlade License Interface"
           className="w-full p-3"
         />

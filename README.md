@@ -1,7 +1,7 @@
 # TuneBlade Key Generator | 生成器 | Генератор ключей
 
 <div align="center">
-  <img src="public/tuneblade-license-interface.svg" alt="TuneBlade License Interface" width="600">
+  <img src="https://crosser23.github.io/tuneblade-key-generator/tuneblade-license-interface.svg" alt="TuneBlade License Interface" width="600">
   
   <p>
     <em>Генератор ключей для TuneBlade | Key Generator for TuneBlade | TuneBlade 密钥生成器</em>
